@@ -1,3 +1,3 @@
-Hey there.
-Code Coffee Sleep Repeat 👨🏼‍💻
-Bugs are not allowed 🚫
+Hey there.<br />
+Code Coffee Sleep Repeat 👨🏼‍💻<br />
+Bugs are not allowed 🚫<br />
