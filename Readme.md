@@ -1,4 +1,4 @@
- <img src="./987256.png"  align="right"/>
+ <img src="./987256.png"  align="right" height=100 width=100/>
 <h1>
 Code Coffee Sleep Repeat 👨🏼‍💻<br />
 </h1>
