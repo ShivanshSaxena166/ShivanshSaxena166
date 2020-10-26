@@ -1,9 +1,15 @@
+<h1>
+Code Coffee Sleep Repeat 👨🏼‍💻<br />
+</h1>
 Hey there.<br />
 Code Coffee Sleep Repeat 👨🏼‍💻<br />
 Bugs are not allowed 🚫<br />
 But they came anyway 🐞<br />
 Gamer🎮<br />
+
  <img src="./987256.png" /><br /><br />
- Linkedin<br/>
- Instagram<br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-saxena-028228192/)   [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshkumar166@gmail.com@gmail.com) 
+ <h3>Checkout this☝️</h3>
 <img src="./giphy.gif"/>
+
