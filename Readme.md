@@ -6,4 +6,4 @@ Gamer🎮<br />
  <img src="./987256.png" /><br /><br />
  Linkedin<br/>
  Instagram<br/>
-<img src="./giphy.gif" width="40" height="40" />
+<img src="./giphy.gif"/>
