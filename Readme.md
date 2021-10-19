@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Shivansh Saxena</h1>
 <h3 align="center">A passionate Full Stack Developer currently studying Information Technology at IIIT Gwalior, India. 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshkl&label=Profile%20views&color=0e75b6&style=flat" alt="ShivanshSaxena166" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivanshSaxena166&label=Profile%20views&color=0e75b6&style=flat" alt="ShivanshSaxena166" /> </p>
 
 💬 Ask me about **JavaScript, ReactJS, NextJS, Node, Express, PostgreSQL.**
 
