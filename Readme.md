@@ -4,8 +4,6 @@
 
 💬 Ask me about **JavaScript, ReactJS, NextJS, Node, Express, PostgreSQL.**
 
-💻 Currently working on my [Portfolio](https://shivanshsaxena166.github.io/Shivansh-Portfolio/)
-
 📫 How to reach me **shivanshkumar166@gmail.com**
 
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14X0hRR3fL9XDPCqtgWsfbthHiV08XEK1/view?usp=sharing)
