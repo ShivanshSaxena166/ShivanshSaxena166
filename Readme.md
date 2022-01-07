@@ -6,8 +6,6 @@
 
 📫 How to reach me **shivanshkumar166@gmail.com**
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/14X0hRR3fL9XDPCqtgWsfbthHiV08XEK1/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivansh-saxena-028228192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ShivanshSaxena166" height="30" width="40" /></a>
